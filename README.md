@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Pavithra G! 👋
 
-<!--
-**PavithraG30/PavithraG30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an enthusiastic and dedicated learner exploring the exciting worlds of **data analysis**, **data science**, and **machine learning**. My portfolio showcases projects that reflect my interests and skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌟 **Aspiring Data Analyst and Data Scientist**
+- 🎯 **Current Goal**: Build expertise in SQL, Python, MySQL, Excel, Tableau.
+- 📚 **Educational Background**: Bachelor of Science in Physics, Mathematics, and Computer Science.
+- 🌱 **Learning Focus**: Preparing for **data science roles** and building strong foundations in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, SQL, MySQL
+- **Tools**: Excel and Tableau.
+- **Other Skills**: Data visualization, Project management
+
+## 🌟 Featured Projects
+1. **Crime Data Analysis**  
+   An Excel-based project for analyzing crime data trends.  
+   [View Project](https://github.com/PavithraG30/Crime-Data-Analysis)
+
+2. **MySQL CRUD Application**  
+   A project demonstrating Create, Read, Update, and Delete operations using MySQL and Python.  
+   [View Project](https://github.com/PavithraG30/Mysql-Project)
+
+3. **Retail Data Analysis**  
+   A project showcasing data analysis techniques for retail data, including sales trends and inventory management.  
+   [View Project](https://github.com/PavithraG30/Retail-Sales-Data-Analysis-and-Visualization) 
+
+## 📌 What I'm Working On
+- Enhancing my portfolio with real-world projects in data analysis and programming.
+- Learning **Python libraries** , **Tableau** and **advanced Excel functions**.
+
+## 📫 Let's Connect!
+- 📧 **Email**: pavihanuman30@gmail.com
+---
+
+
