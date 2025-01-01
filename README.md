@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated learner explori
 - 🌟 **Aspiring Data Analyst and Data Scientist**
 - 🎯 **Current Goal**: Build expertise in SQL, Python, MySQL, Excel, Tableau.
 - 📚 **Educational Background**: Bachelor of Science in Physics, Mathematics, and Computer Science.
-- 🌱 **Learning Focus**: Preparing for **data science roles** and building strong foundations in programming.
+- 🌱 **Learning Focus**: Preparing for **Data Analyst roles** and building strong foundations in programming.
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, MySQL
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am an enthusiastic and dedicated learner explori
 
 ## 📌 What I'm Working On
 - Enhancing my portfolio with real-world projects in data analysis and programming.
-- Learning **Python libraries** , **Tableau** and **advanced Excel functions**.
+- Learning **Python libraries**, **Tableau** and **Advanced Excel functions**.
 
 ## 📫 Let's Connect!
 - 📧 **Email**: pavihanuman30@gmail.com
