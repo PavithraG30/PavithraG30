@@ -1,6 +1,6 @@
 # 👩‍💻 Pavithra G | Data Enthusiast
 
-Hi, I'm Pavithra – a passionate and curious individual with hands-on experience in **data analysis**, **SQL**, **Python**, **Excel**, and **visualization tools** like **Tableau**. I enjoy solving real-world problems through data storytelling and turning complex information into meaningful insights.
+Hi, I'm Pavithra – a passionate and curious individual with 4 years of professional experience in Ad Operation Domain, now transitioning into the world of data analysis. I enjoy solving real-world problems through data storytelling and turning complex information into meaningful insights. I'm currently building a strong foundation in statistics, Python, SQL, Excel, and visualization tools like Tableau.
 
 ---
 
