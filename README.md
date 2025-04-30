@@ -1,37 +1,49 @@
-# Hi there, I'm Pavithra G! 👋
+# 👩‍💻 Pavithra G | Data Enthusiast
 
-Welcome to my GitHub profile! I am an enthusiastic and dedicated learner exploring the exciting worlds of **data analysis**, **data science**, and **machine learning**. My portfolio showcases projects that reflect my interests and skills.
+Hi, I'm Pavithra – a passionate and curious individual with hands-on experience in **data analysis**, **SQL**, **Python**, **Excel**, and **visualization tools** like **Tableau**. I enjoy solving real-world problems through data storytelling and turning complex information into meaningful insights.
 
-## 🚀 About Me
-- 🌟 **Aspiring Data Analyst and Data Scientist**
-- 🎯 **Current Goal**: Build expertise in SQL, Python, MySQL, Excel, Tableau.
-- 📚 **Educational Background**: Bachelor of Science in Physics, Mathematics, and Computer Science.
-- 🌱 **Learning Focus**: Preparing for **Data Analyst roles** and building strong foundations in programming.
-
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, SQL, MySQL
-- **Tools**: Excel and Tableau.
-- **Other Skills**: Data visualization, Project management
-
-## 🌟 Featured Projects
-1. **Crime Data Analysis**  
-   An Excel-based project for analyzing crime data trends.  
-   [View Project](https://github.com/PavithraG30/Crime-Data-Analysis)
-
-2. **MySQL CRUD Application**  
-   A project demonstrating Create, Read, Update, and Delete operations using MySQL and Python.  
-   [View Project](https://github.com/PavithraG30/Mysql-Project)
-
-3. **Retail Data Analysis**  
-   A project showcasing data analysis techniques for retail data, including sales trends and inventory management.  
-   [View Project](https://github.com/PavithraG30/Retail-Sales-Data-Analysis-and-Visualization) 
-
-## 📌 What I'm Working On
-- Enhancing my portfolio with real-world projects in data analysis and programming.
-- Learning **Python libraries**, **Tableau** and **Advanced Excel functions**.
-
-## 📫 Let's Connect!
-- 📧 **Email**: pavihanuman30@gmail.com
 ---
 
+## 🔍 Projects by Category
 
+### 🐍 Python-Based Projects
+| Project | Description |
+|--------|-------------|
+| [Cyber Threats Analysis](https://github.com/PavithraG30/cyber_threats) | EDA and statistical insights on global cybersecurity threats using Python libraries. |
+| [Zomato Data Analysis](https://github.com/PavithraG30/Zomato-Data-Analysis) | Exploratory analysis on restaurant data using Pandas and visualization tools. |
+
+---
+
+### 🧠 SQL and Tableau Projects
+| Project | Description |
+|--------|-------------|
+| [WHO Health Metrics](https://github.com/PavithraG30/WHO-Health-Metrics-Analysis) | Health data queries and insights using MySQL and Tableau. |
+| [MySQL Project](https://github.com/PavithraG30/Mysql-Project) | Schema design and real-time SQL practice project. |
+| [Retail Sales Analysis](https://github.com/PavithraG30/Retail-Sales-Data-Analysis-and-Visualization) | KPI analysis, sales trends, and charts built in Tableau and MYSQL |
+
+---
+
+### 📊 Excel Projects
+| Project | Description |
+|--------|-------------|
+| [Crime Incidents Dashboard](https://github.com/PavithraG30/Crime-Incidents-Dashboard) | Crime trend dashboard with Excel visualizations. |
+| [Crime Data Analysis](https://github.com/PavithraG30/Crime-Data-Analysis) | Excel project focused on visualization and data breakdown. |
+
+---
+
+## 🧠 Skills
+
+- **Languages**: SQL, Python  
+- **Tools**: Excel, Tableau, Jupyter Notebook  
+- **Concepts**: EDA, Data Cleaning, Statistical Analysis, Data Visualization  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: pavihanuman30@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pavithrag30/)  
+
+---
+
+> Always learning, always curious. 🌱
